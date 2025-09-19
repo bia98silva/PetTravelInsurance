@@ -23,7 +23,7 @@ Uma API RESTful desenvolvida em .NET 8 para gerenciar seguros de viagem para pet
 ## 🏗️ Arquitetura
 
 ## Diagrama de Arquitetura
-![Diagrama Azure](./docs/azure-diagram.png)
+![Diagrama Azure](https://github.com/bia98silva/PetTravelInsurance/blob/master/Img/Captura%20de%20tela%202025-09-19%20160027.jpg)
 
 ## Componentes Azure que podem ser Utilizados
 
